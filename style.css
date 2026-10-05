@@ -1,0 +1,11 @@
+div{
+    border: 20px double #37538a;
+}
+
+#heading{
+    text-shadow: 11px 5px 2px rgba(62,104,190,0.6);
+}
+
+.heading2 {
+   font-family: Comic Relief; color: black; font-size: 35px;
+}
